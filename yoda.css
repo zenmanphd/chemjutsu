@@ -20,7 +20,7 @@ a  {
     font-size: 28px;
   }
   body {
-    background-image: url(../chem-jutsu/blossoms.jpg);
+    background-image: url('blossoms.jpg');
     background-size: cover;
     background-attachment: fixed;
   }
