@@ -21,9 +21,11 @@ a  {
   }
   body {
     background-image: url('blossoms.jpg');
-    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
-  }
+    background-size: cover;
+}
     .dropbtn {
     background-color: rgba(112, 6, 59, 0.90);
     color: white;
