@@ -92,8 +92,8 @@ a  {
   thead {
     font-size:  larger ;
   }
-  .serum{
-    width: 750px;
+  .container{
+    width: 900px;
     background-color: rgba(240, 255, 255, 0.493);
     border-radius: 4px;
   }
