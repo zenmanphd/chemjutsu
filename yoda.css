@@ -22,12 +22,12 @@ a  {
     font-size: 28px;
   }
   body {
+    text-align: center;
     background-image: url('blossoms.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    margin: auto;
    animation: transitionIn 850ms;
 }
 @keyframes transitionIn {
