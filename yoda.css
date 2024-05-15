@@ -2,10 +2,11 @@ h1 {
     color: rgb(112, 6, 59);  
     font-size: 65px;
     font-family: 'Times New Roman', Times, serif;
+    text-align: left;
   }
 a  {
   color: rgb(112, 6, 59);
-  text-align: center;
+  text-align: left;
   }
   h2 {
     color: rgb(212, 141, 176);
