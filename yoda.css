@@ -27,7 +27,7 @@ a  {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    text-align: center;
+    margin: auto;
    animation: transitionIn 850ms;
 }
 @keyframes transitionIn {
